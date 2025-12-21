@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Medical Expert — 24/7 AI Medical Assistant | Health Consultation",
+    "description": "AI-powered health consultation. Multi-model diagnostic support, medical analysis, emergency triage. 500K+ consultations, 50+ specialties.",
+    "keywords": "medical ai, ai doctor, health advisor ai, medical diagnosis ai, medical expert, lydian medical"
+  },
+  "seo": {
+    "og": {
+      "title": "Medical Expert — 24/7 AI Medical Assistant | Health Consultation",
+      "description": "AI-powered health consultation. Multi-model diagnostic support, medical analysis, emergency triage. 500K+ consultations, 50+ specialties.",
+      "image": "/og-images/medical-expert-en.jpg",
+      "type": "website",
+      "locale": "en_US"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Medical Expert — 24/7 AI Medical Assistant | Health Consultation",
+      "description": "AI-powered health consultation. Multi-model diagnostic support, medical analysis, emergency triage. 500K+ consultations, 50+ specialties.",
+      "image": "/og-images/medical-expert-en.jpg"
+    },
+    "geo": {
+      "geo.region": "US",
+      "geo.placename": "California",
+      "geo.position": "37.7749,-122.4194",
+      "ICBM": "37.7749,-122.4194"
+    },
+    "canonical": "https://www.ailydian.com/medical-expert"
+  }
+}

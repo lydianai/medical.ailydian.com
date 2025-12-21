@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Medical Expert — مساعد طبي بالذكاء الاصطناعي على مدار الساعة",
+    "description": "استشارة صحية بالذكاء الاصطناعي. دعم تشخيصي متعدد النماذج، تحليل طبي، فرز طوارئ. +500 ألف استشارة، +50 تخصصًا.",
+    "keywords": "الذكاء الاصطناعي الطبي, طبيب ذكاء اصطناعي, مستشار صحي ai, تشخيص طبي ai, medical expert"
+  },
+  "seo": {
+    "og": {
+      "title": "Medical Expert — مساعد طبي بالذكاء الاصطناعي على مدار الساعة",
+      "description": "استشارة صحية بالذكاء الاصطناعي. دعم تشخيصي متعدد النماذج، تحليل طبي، فرز طوارئ. +500 ألف استشارة، +50 تخصصًا.",
+      "image": "/og-images/medical-expert-ar.jpg",
+      "type": "website",
+      "locale": "ar_SA"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Medical Expert — مساعد طبي بالذكاء الاصطناعي على مدار الساعة",
+      "description": "استشارة صحية بالذكاء الاصطناعي. دعم تشخيصي متعدد النماذج، تحليل طبي، فرز طوارئ. +500 ألف استشارة، +50 تخصصًا.",
+      "image": "/og-images/medical-expert-ar.jpg"
+    },
+    "geo": {
+      "geo.region": "SA",
+      "geo.placename": "Riyadh",
+      "geo.position": "24.7136,46.6753",
+      "ICBM": "24.7136,46.6753"
+    },
+    "canonical": "https://www.ailydian.com/medical-expert"
+  }
+}

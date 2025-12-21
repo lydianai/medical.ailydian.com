@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Medical Expert — 24/7 AI医疗助手 | 健康咨询",
+    "description": "AI医疗咨询。多模型诊断支持、医学分析、紧急分诊。50万+次咨询，50+个专科。立即咨询。",
+    "keywords": "医疗人工智能, ai医生, 健康顾问ai, 医疗诊断ai, medical expert, lydian medical"
+  },
+  "seo": {
+    "og": {
+      "title": "Medical Expert — 24/7 AI医疗助手 | 健康咨询",
+      "description": "AI医疗咨询。多模型诊断支持、医学分析、紧急分诊。50万+次咨询，50+个专科。立即咨询。",
+      "image": "/og-images/medical-expert-zh.jpg",
+      "type": "website",
+      "locale": "zh_CN"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Medical Expert — 24/7 AI医疗助手 | 健康咨询",
+      "description": "AI医疗咨询。多模型诊断支持、医学分析、紧急分诊。50万+次咨询，50+个专科。立即咨询。",
+      "image": "/og-images/medical-expert-zh.jpg"
+    },
+    "geo": {
+      "geo.region": "CN",
+      "geo.placename": "Beijing",
+      "geo.position": "39.9042,116.4074",
+      "ICBM": "39.9042,116.4074"
+    },
+    "canonical": "https://www.ailydian.com/medical-expert"
+  }
+}
