@@ -39,3 +39,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AILYDIAN Integration
+.claude/
+
+# AILYDIAN Integration
+.AISystem/
+build/
+dist/
+node_modules/
+.env.*
+!.env.example
+!.env.sample
+.vercel/
+.turbo/
+coverage/
