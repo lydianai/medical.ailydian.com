@@ -29,7 +29,7 @@
 
 ### 1. ✅ Yeni Next.js Projesi
 ```bash
-Location: /Users/sardag/Desktop/medical-ailydian
+Location: /home/lydian/Desktop/medical-ailydian
 Framework: Next.js 15.1.0
 TypeScript: Enabled
 Tailwind CSS: Enabled
@@ -45,7 +45,7 @@ ESLint: Enabled
 ### 3. ✅ Vercel Deployment
 ```
 Production URL:
-https://medical-ailydian-60c84m2pl-emrahsardag-yandexcoms-projects.vercel.app
+https://medical-ailydian-60c84m2pl-lydian-projects.vercel.app
 
 Build Time: 30 saniye
 Build Status: ✅ SUCCESS
@@ -109,7 +109,7 @@ medical-ailydian/
 ### 1. Custom Domain Ekleme
 ```bash
 # Vercel Dashboard:
-https://vercel.com/emrahsardag-yandexcoms-projects/medical-ailydian/settings/domains
+https://vercel.com/lydian-projects/medical-ailydian/settings/domains
 
 # Add: medical.ailydian.com
 ```
@@ -124,7 +124,7 @@ TTL: 3600
 
 ### 3. Ana Proje Deploy (Optional)
 ```bash
-cd /Users/sardag/Desktop/ailydian-ultra-pro/ailydian-from-github
+cd /home/lydian/Desktop/ailydian-ultra-pro/ailydian-from-github
 # Test redirect locally first
 npm run dev
 
@@ -137,7 +137,7 @@ npm run dev
 
 ### Test 1: Direct Access
 ```bash
-curl -I https://medical-ailydian-60c84m2pl-emrahsardag-yandexcoms-projects.vercel.app
+curl -I https://medical-ailydian-60c84m2pl-lydian-projects.vercel.app
 # Expected: 200 OK
 ```
 
@@ -222,7 +222,7 @@ curl https://medical.ailydian.com/api/medical/chat \
 vercel logs medical-ailydian --follow
 
 # Analytics
-https://vercel.com/emrahsardag-yandexcoms-projects/medical-ailydian/analytics
+https://vercel.com/lydian-projects/medical-ailydian/analytics
 ```
 
 ### Troubleshooting
@@ -230,7 +230,7 @@ See: `DEPLOYMENT_GUIDE.md` → Troubleshooting section
 
 ### Updates
 ```bash
-cd /Users/sardag/Desktop/medical-ailydian
+cd /home/lydian/Desktop/medical-ailydian
 git pull
 npm install
 vercel --prod

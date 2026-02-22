@@ -2,7 +2,7 @@
 
 ## ✅ Deployment Tamamlandı!
 
-**Production URL:** https://medical-ailydian-60c84m2pl-emrahsardag-yandexcoms-projects.vercel.app
+**Production URL:** https://medical-ailydian-60c84m2pl-lydian-projects.vercel.app
 
 ---
 
@@ -11,7 +11,7 @@
 ### 1. Custom Domain Ekleme (medical.ailydian.com)
 
 #### Vercel Dashboard'da:
-1. Şu linke gidin: https://vercel.com/emrahsardag-yandexcoms-projects/medical-ailydian/settings/domains
+1. Şu linke gidin: https://vercel.com/lydian-projects/medical-ailydian/settings/domains
 2. **"Add"** butonuna tıklayın
 3. Domain alanına **"medical.ailydian.com"** yazın
 4. **"Add"** butonuna tıklayın
@@ -94,7 +94,7 @@ app.get('/medical-expert*', (req, res) => {
 
 Vercel Dashboard'da environment variables ekleyin:
 
-1. https://vercel.com/emrahsardag-yandexcoms-projects/medical-ailydian/settings/environment-variables
+1. https://vercel.com/lydian-projects/medical-ailydian/settings/environment-variables
 2. Aşağıdaki değişkenleri ekleyin:
 
 ```
@@ -175,7 +175,7 @@ vercel --prod
 ## 📊 Monitoring
 
 ### Vercel Analytics
-https://vercel.com/emrahsardag-yandexcoms-projects/medical-ailydian/analytics
+https://vercel.com/lydian-projects/medical-ailydian/analytics
 
 ### Logs
 ```bash
@@ -183,7 +183,7 @@ https://vercel.com/emrahsardag-yandexcoms-projects/medical-ailydian/analytics
 vercel logs --follow
 
 # Production logs
-vercel logs medical-ailydian-60c84m2pl-emrahsardag-yandexcoms-projects.vercel.app
+vercel logs medical-ailydian-60c84m2pl-lydian-projects.vercel.app
 ```
 
 ---
