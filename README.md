@@ -1,18 +1,58 @@
-# Medical Dashboard - Modern Healthcare Analytics Interface
+<div align="center">
 
-> High-performance medical dashboard built with Next.js 16 and React 19, delivering real-time healthcare analytics with a responsive, accessible design system.
+# MedBoard - Modern Healthcare Analytics Dashboard
 
-[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com)
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+<p><em>High-Performance Clinical and Administrative Analytics Built with Next.js 16, React 19, and Tailwind CSS v4</em></p>
+
+<p>
+  <a href="#overview"><img src="https://img.shields.io/badge/Docs-Overview-blue?style=for-the-badge" alt="Overview"></a>
+  <a href="#architecture"><img src="https://img.shields.io/badge/Docs-Architecture-purple?style=for-the-badge" alt="Architecture"></a>
+  <a href="#key-features"><img src="https://img.shields.io/badge/Docs-Features-green?style=for-the-badge" alt="Features"></a>
+  <a href="#getting-started"><img src="https://img.shields.io/badge/Docs-Setup-orange?style=for-the-badge" alt="Setup"></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4">
+  <img src="https://img.shields.io/badge/WCAG-2.1_AA-009900?style=flat-square" alt="Accessibility">
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+**Platform Highlights**
+- Patient overview with real-time status indicators and KPIs
+- Analytics charts for clinical and operational performance metrics
+- Appointment management with integrated calendar interface
+- Staff scheduling and inventory supply status monitoring
+
+</td>
+<td width="50%">
+
+**Technical Excellence**
+- React Server Components for minimal client JavaScript bundle
+- Streaming responses with Suspense boundaries for instant paint
+- TypeScript strict mode with Zod validation at all data boundaries
+- Tailwind CSS v4 with dark mode and WCAG 2.1 AA accessibility
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## Overview
 
-Medical Dashboard is a modern healthcare analytics interface designed for clinical and administrative teams. It provides a clean, high-performance environment for monitoring patient metrics, managing appointments, and visualizing operational data across healthcare facilities.
+MedBoard is a modern healthcare analytics interface designed for clinical and administrative teams. It provides a clean, high-performance environment for monitoring patient metrics, managing appointments, and visualizing operational data across healthcare facilities.
 
 Built on Next.js 16 App Router with React 19 and Tailwind CSS v4, the dashboard leverages the latest stable releases for optimal server-rendering performance, smallest possible bundle size, and a best-in-class developer experience.
 
@@ -70,14 +110,14 @@ graph TD
 
 ## Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Framework | Next.js 16 (App Router) |
-| UI Library | React 19 |
-| Language | TypeScript (strict mode) |
-| Styling | Tailwind CSS v4 |
-| Linting | ESLint |
-| Package Manager | npm |
+| Layer | Technology | Badge |
+|:------|:-----------|:------|
+| Framework | Next.js 16 (App Router) | ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js) |
+| UI Library | React 19 | ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| Language | TypeScript (strict mode) | ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| Styling | Tailwind CSS v4 | ![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| Linting | ESLint | ![ESLint](https://img.shields.io/badge/ESLint-latest-4B32C3?style=flat-square&logo=eslint) |
+| Package Manager | npm | ![npm](https://img.shields.io/badge/npm-latest-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
 ---
 
@@ -177,4 +217,4 @@ This software is proprietary. See [LICENSE](LICENSE) for full terms.
 ## Contact
 
 - Website: [https://www.ailydian.com](https://www.ailydian.com)
-- Email: sardagemrah@gmail.com
+- Email: info@ailydian.com
